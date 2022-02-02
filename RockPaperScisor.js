@@ -1,7 +1,4 @@
-// Online Javascript Editor for free
-// Write, Edit and Run your Javascript code using JS Online Compiler
-    
-console.log("Welcome to Programiz!");
+
 let answers = ["rock", "paper", "scissor"];
 let userchoice=prompt("Choose rock / paper or scissor").toLowerCase();
 let compschoice = answers[Math.floor(Math.random()*answers.length)]
